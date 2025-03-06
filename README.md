@@ -21,18 +21,18 @@
 
 # 🏆 Achievements
 
-## - **Codeforces**: Specialist (**1533**) → Aiming for **Expert**
-## - **LeetCode**: **Knight (2007)** in 10 contests
-## - **CodeChef**: **4-Star (1800)**
-## - **Hackathons**: Participated in multiple competitions
+### - **Codeforces**: Specialist (**1533**) → Aiming for **Expert**
+### - **LeetCode**: **Knight (2007)** in 10 contests
+### - **CodeChef**: **4-Star (1800)**
+### - **Hackathons**: Participated in multiple competitions
 
 ---
 
 # 📬 Let's Connect!
 
-## 📧 **Email**: [narendrareddy1723@gmail.com](mailto:narendrareddy1723@gmail.com)  
-## 🏆 **Codeforces**: [StealthBlack0_o](https://codeforces.com/profile/StealthBlack0_o)  
-## 💡 **LeetCode**: [StealthBlack17](https://leetcode.com/u/stealthblack17/)  
-## 🌟 **CodeChef**: [StealthBlack17](https://www.codechef.com/users/stealthblack17)  
+### 📧 **Email**: [narendrareddy1723@gmail.com](mailto:narendrareddy1723@gmail.com)  
+### 🏆 **Codeforces**: [StealthBlack0_o](https://codeforces.com/profile/StealthBlack0_o)  
+### 💡 **LeetCode**: [StealthBlack17](https://leetcode.com/u/stealthblack17/)  
+### 🌟 **CodeChef**: [StealthBlack17](https://www.codechef.com/users/stealthblack17)  
 
 ---
