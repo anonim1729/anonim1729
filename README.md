@@ -1,10 +1,10 @@
 ## Hi there, I'm Narendra! 👋
 
-### 🚀 Aspiring Software Engineer | Competitive Programmer | Full-Stack Developer  
+### 🚀 Aspiring Software Engineer | Competitive Programmer | Full-Stack Developer | Data Science Enthusiasist
 
 ---
 
-![Banner](https://github.com/anonim1729/anonim1729/blob/main/new-banner.jpeg)
+![Banner](https://github.com/anonim1729/anonim1729/blob/main/new-banner.jpg)
 
 ### 💡 Passionate about **problem-solving, algorithms, and building Web applications**. Currently aiming for **Codeforces Expert**!
 
