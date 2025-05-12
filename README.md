@@ -4,7 +4,7 @@
 
 ---
 
-![Banner](https://github.com/anonim1729/anonim1729/blob/main/new-banner.jpg)
+![Banner](https://github.com/anonim1729/anonim1729/blob/main/new-banner.jpeg)
 
 ### 💡 Passionate about **problem-solving, algorithms, and building Web applications**. Currently aiming for **Codeforces Expert**!
 
